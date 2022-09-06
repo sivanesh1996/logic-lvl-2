@@ -1,4 +1,4 @@
-class Qstn1
+class Qstn1 
 {
     
     public static void main(String[] args)

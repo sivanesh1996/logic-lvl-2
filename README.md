@@ -30,3 +30,10 @@ i 1
 l 1 
 g 1
 m 1
+
+CommonEle2arr)
+Write a java program to find the common elements between 2 array of integers.
+
+AverageExceptmaxmin)
+Write a java program to compute the average value of an array of integers except
+the largest and smallest values
